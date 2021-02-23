@@ -3,7 +3,7 @@ title: "Zabbix Applianceを導入してみた"
 emoji: "⛳"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["vsphere", "ESXi", "ホームラボ", "Zabbix"]
-published: false
+published: true
 ---
 
 いろいろと新しい環境ができてきたので、機器類の異常にも気づけるように監視周りの整備を行いたいと思います。
