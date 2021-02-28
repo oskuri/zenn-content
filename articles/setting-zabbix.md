@@ -6,7 +6,7 @@ topics: ["Zabbix"]
 published: true
 ---
 
-こちらの記事でZabbix ApplianceをVM基盤にデプロイしたので、こちらの諸設定を行っていきます。
+[こちら](https://zenn.dev/payapayao/articles/install-zabbix)の記事でZabbix ApplianceをVM基盤にデプロイしたので、このZabbix Applianceに諸設定を行っていきます。
 
 # VMware toolsのインストール
 
