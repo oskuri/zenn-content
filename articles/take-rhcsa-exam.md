@@ -3,7 +3,7 @@ title: "RHCSAを受験した話"
 emoji: "📑"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["redhat","RHCSA"]
-published: false
+published: true
 ---
 
 仕事の関係でRHCSAをリモート受験しました。書けないことも多いですが、これから受験する方の参考になればと思います。
